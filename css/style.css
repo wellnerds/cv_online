@@ -39,15 +39,15 @@
   
   .profile-picture {
     border-radius: 20px;
-    border: solid 4px #284b63;
+    border: solid 4px #1d3499;
     width: 180px;
   }
   
   .title-name {
-    color: #284b63;
+    color: #1d3499;
     font-family: 'Merriweather', serif;
     font-weight: 700;
-    margin: 8px 0 0;
+    margin: 10px 0 0;
   }
   
   .title-name span {
@@ -55,7 +55,7 @@
   }
   
   .subtitle-role {
-    background: #284b63;
+    background: #1d3499;
     border-radius: 12px;
     color: #e9ebec;
     font-size: 14px;
@@ -74,7 +74,7 @@
   }
   
   .social-links a {
-    color: #284b63;
+    color: #1d3499;
   }
   
   .social-links a:hover {
@@ -88,7 +88,7 @@
   }
   
   .personal-data li {
-    color: #284b63;
+    color: #1d3499;
     font-weight: 600;
     line-height: 1.5;
   }
@@ -105,7 +105,7 @@
   }
   
   .download-button {
-    background: #3c6e71;
+    background: #1a7408;
     border-radius: 8px;
     color: white;
     display: block;
@@ -127,7 +127,7 @@
   .article-title-wrapper {
     align-items: center;
     border-bottom: 4px solid;
-    color: #284b63;
+    color: #1d3499;
     display: inline-flex;
     margin-bottom: 12px;
     padding: 0 2px;
@@ -139,7 +139,7 @@
   
   .article-title {
     border-top: 4px solid;
-    color: #284b63;
+    color: #1d3499;
     font-size: 32px;
     font-weight: 800;
     margin: 0 0 2px;
@@ -161,7 +161,7 @@
   .timeline li::after {
     background-color: #fff;
     border-radius: 50%;
-    border: 1px solid #3c6e71;
+    border: 1px solid #1d3499;
     box-sizing: border-box;
     content: '';
     display: inline-block;
@@ -173,7 +173,7 @@
   }
   
   .timeline li:not(:last-of-type)::before {
-    background-color: #3c6e71;
+    background-color: #1d3499;
     content: '';
     height: 100%;
     left: 3.5px;
@@ -183,19 +183,19 @@
   }
   
   .timeline-title {
-    color: #284b63;
+    color: #1d3499;
     font-size: 20px;
     margin: -8px 0 0;
   }
   
   .timeline-time {
-    color: #284b63;
+    color: #1d3499;
     font-weight: 400;
     margin: 0;
   }
   
   .timeline-place {
-    color: #284b63;
+    color: #1d3499;
     font-size: 18px;
     font-weight: 600;
     margin: 12px 0 4px;
@@ -225,7 +225,7 @@
   
   .progress-bar {
     align-items: center;
-    background-color: #284b63;
+    background-color: #1d3499;
     border-radius: 20px;
     color: #fff;
     display: flex;
@@ -270,7 +270,7 @@
   }
   
   .soft-skill-label {
-    color: #284b63;
+    color: #1d3499;
     margin: 4px 0 0;
   }
   
@@ -291,7 +291,7 @@
   }
   
   .portfolio-item figcaption {
-    color: #3c6e71;
+    color: #1d3499;
     font-weight: 800;
     text-align: center;
   }
